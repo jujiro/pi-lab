@@ -1,3 +1,4 @@
+# Example: Blinking LED
 from gpiozero import LED
 from time import sleep
 
@@ -8,4 +9,4 @@ while True:
     led.on()
     sleep(0.5)
     led.off()
-    sleep(0.25)
+    sleep(0.5)
