@@ -9,4 +9,4 @@ while True:
     led.on()
     sleep(0.5)
     led.off()
-    sleep(0.25)
+    sleep(0.5)
