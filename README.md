@@ -8,4 +8,6 @@ better_button.py: A better way to use a button.  Refer to button.jpg for the cir
 multi.py: Shows example of parallel processing using multiprocessing module.  This is a preffered way.    
 You will have a much better way to control the spawned child processes.  
   
-thread.py: An example to show that threads in Python suck.  
+thread.py: An example to show that threads in Python suck.
+
+whack-a-mole\main.py: Code to create the arcade game of whack-a-mole.
