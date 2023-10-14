@@ -11,3 +11,7 @@ You will have a much better way to control the spawned child processes.
 thread.py: An example to show that threads in Python suck.
 
 whack-a-mole\main.py: Code to create the arcade game of whack-a-mole.
+
+Raspberry PI 101 and Whack-A-Mole part 1 of 2](https://youtu.be/8wXO76q4K-8)
+
+Raspberry PI 101 and Whack-A-Mole part 2 of 2](https://youtu.be/M9Ztaliw7sI)
